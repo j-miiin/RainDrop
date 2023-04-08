@@ -3,4 +3,4 @@
 
 ## 실행화면
 
-<img src="https://user-images.githubusercontent.com/62470991/229363148-761271dd-4750-4f6f-aa81-ff062ffabb25.png" width="400" height="800"/>
+<img src="https://user-images.githubusercontent.com/62470991/230719900-4d68d7d8-4715-4fdf-84ab-e8895048863c.gif" width="300" height="500"/>
